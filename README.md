@@ -7,7 +7,7 @@ As datas desta relação podem ser encontradas em https://www.anbima.com.br/feri
 
 Já as funções em 'feriados_usuario.py' trabalham com uma relação de feriados informada pelo usuário,
 o que deve ser feito a partir de um arquivo em formato .csv, em que as informações de feriados já
-estejam em formato de data e devem constar obrigatoriamento na primeira coluna do arquivo. É importante também
+estejam em formato de data e devem constar obrigatoriamente na primeira coluna do arquivo. É importante também
 observar que qualquer outra informação neste arquivo que não sejam as datas poderá afetar o funcionamento das funções.
 
 
